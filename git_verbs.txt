@@ -1,0 +1,11 @@
+git <verbs>
+
+config
+help
+init
+status
+add
+commit
+log
+dif
+
